@@ -18,3 +18,12 @@ both has 'Try it out' button, clicking on it opens panel where you can click 'Ex
 
 ![image](https://user-images.githubusercontent.com/29385156/112517847-b7990d00-8d90-11eb-989b-1c83b48847f4.png)
 
+
+Areas to Refactor:
+
+Create service class, and its interface
+Create repo class, and its interface
+Write unit tests
+Add more logging
+Wireup DI in startup class
+Add Authentication
