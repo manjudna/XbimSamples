@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XBIMApi", "XBIMApi\XBIMApi.csproj", "{4D236AFD-BA08-440D-B113-46A281D5CFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D236AFD-BA08-440D-B113-46A281D5CFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D236AFD-BA08-440D-B113-46A281D5CFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D236AFD-BA08-440D-B113-46A281D5CFCC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4D236AFD-BA08-440D-B113-46A281D5CFCC}.Debug|x86.Build.0 = Debug|Any CPU
+		{4D236AFD-BA08-440D-B113-46A281D5CFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D236AFD-BA08-440D-B113-46A281D5CFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D236AFD-BA08-440D-B113-46A281D5CFCC}.Release|x86.ActiveCfg = Release|Any CPU
+		{4D236AFD-BA08-440D-B113-46A281D5CFCC}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4AFDF82-1735-4C19-BBB2-9084D1880FFD}
+	EndGlobalSection
+EndGlobal
