@@ -21,9 +21,9 @@ both has 'Try it out' button, clicking on it opens panel where you can click 'Ex
 
 Areas to Refactor:
 
-Create service class, and its interface
-Create repo class, and its interface
-Write unit tests
-Add more logging
-Wireup DI in startup class
-Add Authentication
+1.Create service class, and its interface
+2.Create repo class, and its interface
+3.Write unit tests
+4.Add more logging
+5.Wireup DI in startup class
+6.Add Authentication
